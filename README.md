@@ -1,4 +1,3 @@
-# Phase 1 Project
 
 ### Author : Victor Njogu 
 
