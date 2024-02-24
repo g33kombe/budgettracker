@@ -1,0 +1,22 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "amount": "110",
+      "type": "spending",
+      "description": "Rent"
+    },
+    {
+      "id": "2",
+      "amount": "200",
+      "type": "earning",
+      "description": "Gig 1"
+    },
+    {
+      "id": 3,
+      "amount": "1100",
+      "type": "earning",
+      "description": "salary"
+    }
+  ]
+}
